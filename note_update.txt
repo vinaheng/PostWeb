@@ -1,2 +1,3 @@
-+ Update New Font
-+ Fix Connect Ld
++ Update Font UI
++ Fix Connect Device
++ Fix Performance
