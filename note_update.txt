@@ -1,3 +1,7 @@
-+ Update Font UI
-+ Fix Connect Device
++ Update option create page
++ Update option set 2FA
++ Update option add cover with random
++ Update Clone Dashboard Page
++ Update new font
++ Fix connect device
 + Fix Performance
