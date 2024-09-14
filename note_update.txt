@@ -5,3 +5,4 @@
 + Update new font
 + Fix connect device
 + Fix Performance
+Please Update to last version
