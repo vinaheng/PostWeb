@@ -1,11 +1,9 @@
-+ Update option create page
-+ Update create Note
-+ Update sort data accounts By:UID,Name
-+ Update delete data accounts
-+ Update option set 2FA
-+ Update option add cover with random
-+ Update clone Dashboard Page
-+ Update new font
-+ Fix connect device
-+ Fix Performance
++ Create doubleclick table header is sort data
++ Create check Monetization | Button Setup
++ Create check Recommend page
++ Create check Copyright
++ Create Delete Video Copyright
++ Create Delete Post
++ Create Delete Page
+==============================================
 Please Update to last version
