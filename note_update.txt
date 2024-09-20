@@ -1,7 +1,7 @@
-+ Create doubleclick table header is sort data
-+ Create check Monetization | Button Setup
-+ Create check Recommend page
-+ Create check Copyright
++ Create Double click table header is sort data
++ Create Check Monetization | Button Setup
++ Create Check Recommend page
++ Create Check Copyright
 + Create Delete Video Copyright
 + Create Delete Post
 + Create Delete Page
