@@ -1,16 +1,4 @@
-+ Create Double click table header is sort data
-+ Create Check Monetization | Button Setup
-+ Create Check Recommend page
-+ Create Check Copyright
-+ Create Delete Video Copyright
-+ Create Delete Post
-+ Create Delete Page
-+ Create Box LDPlayer
-+ Create Copy UID
-+ Create Copy Password
-+ Create Copy Mail
-+ Create Copy Password Mail
-+ Create Copy 2FA
-+ Create Copy Code 2FA
++ Fix Backup Page 
++ Fix Get Name Page
 ===========================================
 Please Update to last version
