@@ -1,4 +1,5 @@
 + Fix Backup Page 
 + Fix Get Name Page
++ Fix Box LDPlayer
 ===========================================
 Please Update to last version
