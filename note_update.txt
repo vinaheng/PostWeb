@@ -1,5 +1,6 @@
++ Fix Get OTP 2FA 
 + Fix Backup Page 
 + Fix Get Name Page
-+ Fix Box LDPlayer
++ Fix Box LDPlayer`
 ===========================================
 Please Update to last version
