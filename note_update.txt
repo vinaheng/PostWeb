@@ -1,6 +1,4 @@
-+ Fix Get OTP 2FA 
-+ Fix Backup Page 
-+ Fix Get Name Page
-+ Fix Box LDPlayer`
++ Add Function Active Reels
++ Fix Scroll Active
 ===========================================
 Please Update to last version
