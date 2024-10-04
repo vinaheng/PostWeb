@@ -1,4 +1,5 @@
 + Add Function Active Reels
 + Fix Scroll Active
++ Fix Performance
 ===========================================
 Please Update to last version
