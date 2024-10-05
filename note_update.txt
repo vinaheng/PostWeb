@@ -1,4 +1,6 @@
 + Add Function Active Reels
++ Add Function Check Date Create Account
++ Add Function Check Date Create page
 + Fix Scroll Active
 + Fix Performance
 ===========================================
