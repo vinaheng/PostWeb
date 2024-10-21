@@ -1,12 +1,6 @@
++ Add Proxy VPN
 + Fix Reload Data
 + Fix Auto Backup Page
-+ Auto Remove Page if Remove Admin Page
-+ Add Preview Profile Account & Page
-+ Add Profile For Account & Page
-+ Add Set Color Row Table
-+ Add Function Check Date Create Account
-+ Add Function Check Date Create page
-+ Fix Scroll Active
 + Fix Performance
 ===========================================
 Please Update to last version
