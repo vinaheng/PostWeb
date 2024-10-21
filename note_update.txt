@@ -1,3 +1,5 @@
++ Fix Reload Data
++ Fix Auto Backup Page
 + Auto Remove Page if Remove Admin Page
 + Add Preview Profile Account & Page
 + Add Profile For Account & Page
