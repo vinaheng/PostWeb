@@ -1,3 +1,6 @@
++ Add Follow Page by uid
++ Add Select uid admin on table page 
+  is auto select uid admin on table acc
 + Add Proxy VPN
 + Fix Reload Data
 + Fix Auto Backup Page
