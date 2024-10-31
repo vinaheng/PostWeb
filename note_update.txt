@@ -1,14 +1,15 @@
-+ Fake GPS Mocklocation
++ Set PGS for Account✅
++ Fake GPS Mocklocation✅
 + Fix Dismiss Automation
-+ Add Function Auto Remove Accounts Setting
-+ Add Function Note Page ads
-+ Add Function Get Account or Pages For Custom Active
-+ Add Function Follow Page by uid
-+ Add Function Select uid admin on table page 
-  is auto select uid admin on table acc
-+ Add Proxy VPN For Accounts
-+ Fix Reload Data
-+ Fix Auto Backup Page
-+ Fix Performance
++ Add Function Auto Remove Accounts Setting✅
++ Add Function Note Page ads✅
++ Add Function Get Account or Pages For Custom Active✅
++ Add Function Follow Page by uid✅
++ Add Function Select uid admin on table page ✅
+  is auto select uid admin on table acc✅
++ Add Proxy VPN For Accounts✅
++ Fix Reload Data✅
++ Fix Auto Backup Page✅
++ Fix Performance✅
 ===========================================
 Please Update to last version
